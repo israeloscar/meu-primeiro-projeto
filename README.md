@@ -18,6 +18,6 @@ Python 3.10+
 ## Como executar
 
 1. Abra o terminal na pasta do arquivo
-2. Execute esseb comando:
+2. Execute esse comando:
 ```bash
     Python main.py
